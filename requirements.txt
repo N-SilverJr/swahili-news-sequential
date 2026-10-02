@@ -1,0 +1,14 @@
+# torch is pre-installed on Google Colab; install it yourself when running locally.
+numpy
+pandas
+scipy
+scikit-learn>=1.3
+matplotlib
+seaborn
+tabulate
+tqdm
+joblib
+transformers>=4.40
+sentencepiece
+protobuf
+jupytext

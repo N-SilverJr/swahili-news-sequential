@@ -1,0 +1,14 @@
+# Zindi data is not redistributed
+data/*
+!data/splits.csv
+!data/README.md
+cache/
+*.gz
+*.pt
+*.bin
+*.safetensors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+_quick/
