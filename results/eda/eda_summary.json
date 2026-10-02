@@ -1,0 +1,169 @@
+{
+  "n_train_csv": 5151,
+  "n_zindi_test": 1288,
+  "split_sizes": {
+    "train": 3605,
+    "test": 773,
+    "val": 773
+  },
+  "raw_label_spellings": {
+    "Kitaifa": 2000,
+    "michezo": 1720,
+    "Biashara": 1360,
+    "Kimataifa": 54,
+    "Burudani": 17
+  },
+  "class_counts": {
+    "kitaifa": 2000,
+    "michezo": 1720,
+    "biashara": 1360,
+    "kimataifa": 54,
+    "burudani": 17
+  },
+  "imbalance_ratio": 117.6470588235294,
+  "class_counts_per_split": {
+    "test": {
+      "kitaifa": 300,
+      "michezo": 258,
+      "biashara": 204,
+      "kimataifa": 8,
+      "burudani": 3
+    },
+    "train": {
+      "kitaifa": 1400,
+      "michezo": 1204,
+      "biashara": 952,
+      "kimataifa": 38,
+      "burudani": 11
+    },
+    "val": {
+      "kitaifa": 300,
+      "michezo": 258,
+      "biashara": 204,
+      "kimataifa": 8,
+      "burudani": 3
+    }
+  },
+  "frac_docs_with_glued": 0.9598136284216657,
+  "mean_glued_per_doc": 5.9336051252184046,
+  "frac_docs_with_allcaps_word": 0.8598330421277421,
+  "mean_num_token_share": 0.02043191450673187,
+  "words_per_doc": {
+    "count": 5151.0,
+    "mean": 322.09260337798486,
+    "std": 196.70639834815887,
+    "min": 0.0,
+    "50%": 278.0,
+    "90%": 514.0,
+    "95%": 695.0,
+    "99%": 1108.0,
+    "max": 2599.0
+  },
+  "frac_docs_within": {
+    "128": 0.0529994175888177,
+    "256": 0.4226363812851873,
+    "512": 0.8994370025237818,
+    "1024": 0.9856338575033974
+  },
+  "n_empty_docs": 3,
+  "median_words_per_class": {
+    "biashara": 241.0,
+    "burudani": 65.0,
+    "kimataifa": 136.5,
+    "kitaifa": 330.0,
+    "michezo": 260.0
+  },
+  "zindi_words_median": 283.0,
+  "subword_tokens_median": 444.5,
+  "subword_per_word": 1.6198406826901572,
+  "frac_docs_over_512_subwords": 0.381,
+  "n_tokens": 1659099,
+  "n_types": 72802,
+  "hapax_share_of_types": 0.5334880909865114,
+  "vocab_size_minfreq2": 26854,
+  "val_oov_rate": 0.04681248072576521,
+  "val_oov_rate_minfreq1": 0.04091798056766769,
+  "mean_word_length": 5.497714180825482,
+  "example_forms_cheza": [
+    "mchezo",
+    "wachezaji",
+    "michezo",
+    "mchezaji",
+    "kucheza",
+    "uliochezwa",
+    "utakaochezwa",
+    "itacheza",
+    "kuchezwa",
+    "iliyochezwa",
+    "walicheza",
+    "kuichezea",
+    "watacheza",
+    "wanacheza",
+    "ilicheza"
+  ],
+  "top_terms": {
+    "kitaifa": [
+      "serikali",
+      "wananchi",
+      "magufuli",
+      "rais",
+      "wilaya",
+      "waziri",
+      "sheria",
+      "wanafunzi"
+    ],
+    "michezo": [
+      "timu",
+      "mchezo",
+      "ligi",
+      "simba",
+      "mechi",
+      "wachezaji",
+      "yanga",
+      "kocha"
+    ],
+    "biashara": [
+      "biashara",
+      "bidhaa",
+      "uwekezaji",
+      "benki",
+      "viwanda",
+      "huduma",
+      "kampuni",
+      "wateja"
+    ],
+    "kimataifa": [
+      "rais",
+      "virusi",
+      "china",
+      "marekani",
+      "mugabe",
+      "kiongozi",
+      "trump",
+      "corona"
+    ],
+    "burudani": [
+      "up",
+      "mrembo",
+      "miss",
+      "mwanamuziki",
+      "google",
+      "brown",
+      "urembo",
+      "ameshinda"
+    ]
+  },
+  "most_similar_pairs": {
+    "kitaifa / biashara": 0.91,
+    "kitaifa / kimataifa": 0.693,
+    "kitaifa / michezo": 0.646,
+    "biashara / kimataifa": 0.612
+  },
+  "keyword_share_first_quarter": 0.2920006992832347,
+  "n_exact_duplicates": 10,
+  "n_near_duplicate_docs": 48,
+  "near_dup_groups_across_splits": 14,
+  "near_dup_groups_conflicting": 5,
+  "english_function_word_share_mean": 0.001318924569632342,
+  "frac_docs_english_over_5pct": 0.0007765482430596001
+}

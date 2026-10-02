@@ -1,0 +1,49 @@
+id,label,split,prefix
+SW11,michezo,train,shirikisho la soka tanzania (tff) imepanga ratiba ya michuano ya kombe la shirik
+SW1172,biashara,train,serikali imeanza mchakato wa kupata wazabuni wa ndani na nje ya nchi wa kubangua
+SW1204,kitaifa,val,kamati ya siasa ya chama cha mapinduzi (ccm) mkoa wa dodoma imeiagiza bohari kuu
+SW1799,kitaifa,train,"naibu waziri wa ujenzi, uchukuzi na mawasiliano, atashasta nditiye amesema serik"
+SW1829,kitaifa,train,"mamlaka ya mapato tanzania (tra) yenye jukumu la kukadiria, kukusanya na kuhasib"
+SW1940,kitaifa,train,"naibu waziri wa afya, maendeleo ya jamii, jinsia, wazee na watoto, dk faustine n"
+SW1979,michezo,train,"mabingwa watetezi wa ligi kuu tanzania bara, simba wanashuka dimbani leo kuikabi"
+SW2289,kitaifa,test,"waziri mkuu, kassimu majaliwa amewataka viongozi wa serikali mikoani kushirikian"
+SW2665,kitaifa,train,shule <num> zenye upungufu mkubwa wa vyumba vya madarasa katika halmashauri ya j
+SW2762,kitaifa,train,"idadi ya watalii walioingia nchini imeongezeka kutoka <num> , <num> mwaka <num> "
+SW2788,kitaifa,train,"idadi ya watalii walioingia nchini imeongezeka kutoka <num> , <num> mwaka <num> "
+SW2909,kitaifa,train,shule <num> zenye upungufu mkubwa wa vyumba vya madarasa katika halmashauri ya j
+SW3183,biashara,val,"rais john magufuli amemwagiza waziri wa madini, doto biteko kukamilisha malipo y"
+SW3339,kitaifa,val,bunge limehitimisha rasmi mjadala wa muda mrefu kuhusu madai ya matumizi mabaya 
+SW3421,kitaifa,train,serikali imesema haina mpango wa kukabidhi kiwanda cha kukoboa mpunga cha kilima
+SW3449,kitaifa,val,serikali imekabidhiwa rasmi kilo <num> za dhahabu zenye thamani ya sh bilioni <n
+SW3647,kitaifa,test,halmashauri ya jiji la dodoma iko katika mkakati kupata vyumba <num> vya madaras
+SW380,kitaifa,test,"naibu waziri wa maliasili na utalii, constantine kanyasu ameagiza minada ya mifu"
+SW3839,kitaifa,test,serikali imekabidhiwa rasmi kilo <num> za dhahabu zenye thamani ya sh bilioni <n
+SW384,kitaifa,train,"rais john magufuli amemwagiza waziri wa madini, doto biteko kukamilisha malipo y"
+SW4050,kitaifa,test,"mwenyekiti wa chama cha demokrasia na maendeleo (chadema), freeman mbowe na mbun"
+SW4159,michezo,val,wakati ligi kuu tanzania bara imesimama kupisha mchezo wa timu ya taifa stars dh
+SW4381,kitaifa,test,"waziri mkuu, kassimu majaliwa amewataka viongozi wa serikali mikoani kushirikian"
+SW4682,michezo,train,ligi kuu tanzania bara inatarajiwa kuingia siku ya pili leo kwa michezo minne ku
+SW4761,kitaifa,train,"mamlaka ya mapato tanzania (tra) yenye jukumu la kukadiria, kukusanya na kuhasib"
+SW4762,kitaifa,test,wajasiriamali <num> kutoka vijiji <num> vya mikoa ya tanga na pwani wamenufaika 
+SW4772,biashara,train,"shirika la taifa la hifadhi ya jamii (nssf), limepanga kutumia vitambulisho vya "
+SW4970,biashara,test,rais john magufuli amewataka watanzania likiwemo jeshi la ulinzi la wananchi wa 
+SW4987,michezo,train,wakati ligi kuu tanzania bara imesimama kupisha mchezo wa timu ya taifa stars dh
+SW4993,kitaifa,train,halmashauri ya jiji la dodoma iko katika mkakati kupata vyumba <num> vya madaras
+SW5111,kitaifa,train,bunge limehitimisha rasmi mjadala wa muda mrefu kuhusu madai ya matumizi mabaya 
+SW5136,kitaifa,train,serikali imesema haina mpango wa kukabidhi kiwanda cha kukoboa mpunga cha kilima
+SW5189,kitaifa,test,serikali imeanza mchakato wa kupata wazabuni wa ndani na nje ya nchi wa kubangua
+SW5380,kitaifa,val,wajasiriamali <num> kutoka vijiji <num> vya mikoa ya tanga na pwani wamenufaika 
+SW5384,kitaifa,train,kamati ya siasa ya chama cha mapinduzi (ccm) mkoa wa dodoma imeiagiza bohari kuu
+SW540,kitaifa,train,"mwenyekiti wa mtandao wa vijana na watoto mkoa wa mwanza, shaban maganga amesema"
+SW5402,michezo,val,"mabingwa watetezi wa ligi kuu soka tanzania bara, simba wanashuka dimbani leo ku"
+SW5412,kitaifa,test,"shirika la taifa la hifadhi ya jamii (nssf), limepanga kutumia vitambulisho vya "
+SW5849,kitaifa,val,"mwenyekiti wa chama cha demokrasia na maendeleo (chadema), freeman mbowe na mbun"
+SW5879,michezo,train,ligi kuu tanzania bara inatarajiwa kuingia siku ya pili leo kwa michezo minne ku
+SW5891,kitaifa,train,"naibu waziri wa afya, maendeleo ya jamii, jinsia, wazee na watoto, dk faustine n"
+SW5948,biashara,train,"naibu waziri wa ujenzi, uchukuzi na mawasiliano, atashasta nditiye amesema serik"
+SW6261,kitaifa,train,"mwenyekiti wa mtandao wa vijana na watoto mkoa wa mwanza, shaban maganga amesema"
+SW635,michezo,test,"mabingwa watetezi wa ligi kuu tanzania bara, simba wanashuka dimbani leo kuikabi"
+SW688,michezo,train,shirikisho la soka tanzania (tff) imepanga ratiba ya michuano ya kombe la shirik
+SW736,kitaifa,val,"naibu waziri wa maliasili na utalii, constantine kanyasu ameagiza minada ya mifu"
+SW782,michezo,test,"mabingwa watetezi wa ligi kuu soka tanzania bara, simba wanashuka dimbani leo ku"
+SW795,kitaifa,train,rais john magufuli amewataka watanzania likiwemo jeshi la ulinzi la wananchi wa 
