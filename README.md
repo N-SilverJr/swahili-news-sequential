@@ -8,12 +8,6 @@ Dataset: [Zindi – Swahili News Classification Challenge](https://zindi.africa/
 category, and what evidence explains the strengths and limitations of each approach, given long
 articles, a rich morphology and a severely imbalanced label distribution?*
 
-| Links | |
-|---|---|
-| Report (PDF) | _add link_ |
-| Demo video (7–10 min) | _add link_ |
-| Contribution tracker | _add link_ |
-
 ## Key properties of the data (from `01_eda`)
 
 * **Severe imbalance:** kitaifa 2,000 · michezo 1,720 · biashara 1,360 · kimataifa 54 · burudani 17 (118 : 1).
